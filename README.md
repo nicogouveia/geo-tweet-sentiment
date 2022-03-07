@@ -20,3 +20,18 @@ I expect this project to have some geographical correlation with opinion of diff
 
 ---
 References:
+
+Initially tried to use twitter API and Tweepy
+https://towardsdatascience.com/tweepy-for-beginners-24baf21f2c25 
+
+Tweet scraping based off this:
+https://medium.com/swlh/how-to-scrape-tweets-by-location-in-python-using-snscrape-8c870fa6ec25
+
+Sentiment analysis and preprocessing based off this:
+https://www.youtube.com/watch?v=_EgqxIoUE7U
+
+General guidance from:
+https://github.com/MartinBeckUT/TwitterScraper/blob/master/snscrape/python-wrapper/snscrape-python-wrapper.ipynb 
+https://medium.com/dataseries/how-to-scrape-millions-of-tweets-using-snscrape-195ee3594721
+Tweepy Documentation
+Folium Documentation

@@ -9,7 +9,7 @@ ______________________________________
    
 ### Nico Gouveia
 
-For this project I originally want to see which cities have positive impressions of something based on twitter data. This would be useful for numerous applications but would mostly likely be used for exploratory research on developing trends. 
+For this project I wanted to see which cities have positive impressions of something based on twitter data. This would be useful for numerous applications but would mostly likely be used for exploratory research on developing trends. 
 
 In this project I query tweets using Twitter's developer API, the Tweepy package, and the SNScrapper package. I use folium to plot my results. For data manipulation and analysis, I use Pandas, TextBlob, and Natural Language Toolkit. I am in the process of incorporating Pytorch and the huggingface transformers package in order to improve my sentiment analysis results. I may use NLTK's VADER tool in the future.
 
